@@ -7,18 +7,6 @@ A simplified and polished template overlay for wplace.live. This is a remix of t
 
 <img alt="Showcase image of Clean Marble" src="https://placehold.co/700x400/1e1e2e/ffffff?text=Your+Screenshot+Here" width="700">
 
-<!--
-REMEMBER TO UPDATE THE BADGES BELOW FOR YOUR REPO!
-Replace [YOUR_USERNAME] and [YOUR_REPO_NAME].
--->
-
-<p align="left">
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME]/releases" target="_blank"><img alt="Latest Release" src="https://img.shields.io/github/v/release/[YOUR_USERNAME]/[YOUR_REPO_NAME]?sort=semver&style=flat-square&label=Latest%20Release&color=blue"></a>
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME]/blob/main/LICENSE.txt" target="_blank"><img alt="Software License" src="https://img.shields.io/badge/License-MPL--2.0-slateblue?style=flat-square"></a>
-<a href="https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME]/issues" target="_blank"><img alt="Open Issues" src="https://img.shields.io/github/issues/[YOUR_USERNAME]/[YOUR_REPO_NAME]?style=flat-square&label=Issues"></a>
-<a href="[YOUR_DISCORD_LINK]" target="_blank"><img alt="Join Discord" src="https://www.google.com/search?q=https://img.shields.io/badge/Join-Discord-7289DA%3Fstyle%3Dflat-square%26logo%3Ddiscord%26logoColor%3Dwhite"></a>
-</p>
-
 🚀 Quick Start
 Installation
 
